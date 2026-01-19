@@ -1,0 +1,8 @@
+{
+  "name": "ViralQuiz AI - কুইজ ভিডিও জেনারেটর",
+  "description": "Create high-engagement viral quiz video scripts and previews using the 10-year experience formula. Perfect for YouTube and Facebook Reels.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
